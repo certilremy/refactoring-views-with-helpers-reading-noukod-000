@@ -10,6 +10,6 @@ require 'rails_helper'
 #     end
 #   end
 # end
-.describe AuthorsHelper, type: :helper do
+ AuthorsHelper, type: :helper do
   pending "add some examples to (or delete) #{__FILE__}"
 end
